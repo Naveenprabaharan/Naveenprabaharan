@@ -1,5 +1,3 @@
-[![MasterHead](https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Naveenprabaharan S</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <br>
